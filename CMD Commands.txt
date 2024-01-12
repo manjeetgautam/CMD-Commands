@@ -1,0 +1,4 @@
+Make Directory  -  mkdir newdirectory
+Go to next Directory - cd directory
+Go to previous Directory - cd..
+open directory - dir
